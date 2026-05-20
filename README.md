@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Hola, soy Nyvenh (vH Nyvenh) ⚡</h1>
-  <p><b>Desarrollador Web Frontend | Estudiante de Ingeniería de Software en SENATI</b></p>
-  <p>📍 Piura, Perú</p>
+  <h1>Hola, soy Nyvenh ⚡</h1>
+  <p><b>Desarrollador Web Frontend</b></p>
 </div>
 
 <br>
@@ -10,7 +9,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌌 Sobre Mí</h3>
-      <p>Tengo 19 años y construyo interfaces web con diseños modernos, priorizando el estilo Bento Grid y combinaciones de colores vibrantes sobre fondos oscuros.</p>
+      <p>Construyo interfaces web con diseños modernos, priorizando el estilo Bento Grid y combinaciones de colores vibrantes sobre fondos oscuros.</p>
       <p>🚀 Actualmente desarrollando la <b>versión 7 de Rix Service Prem</b>, iterando la UI y optimizando el código de la plataforma de suscripciones digitales.</p>
     </td>
     <td width="50%" valign="top" align="center">
