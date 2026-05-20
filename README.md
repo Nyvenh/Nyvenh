@@ -1,5 +1,5 @@
-[<div align="center">
-  <img src="[https://i.pinimg.com/736x/59/8c/74/598c74eb6a15b5785d7e86a239eb72aa.jpg](https://i.pinimg.com/736x/d4/76/31/d476317a744605dc983dc44af3e4229b.jpg)" width="200" style="border-radius: 50%; border: 2px solid #00ffcc;">
+<div align="center">
+  <img src="https://i.pinimg.com/736x/59/8c/74/598c74eb6a15b5785d7e86a239eb72aa.jpg" width="200" style="border-radius: 50%; border: 2px solid #00ffcc;">
   <br><br>
   <h1>Hola, soy Nyvenh ⚡</h1>
   <p><b>Desarrollador Full Stack Avanzado | Especialista en UI/UX y Optimización</b></p>
@@ -60,4 +60,3 @@
     </td>
   </tr>
 </table>
-](https://i.pinimg.com/736x/d4/76/31/d476317a744605dc983dc44af3e4229b.jpg)
