@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/d4/76/31/d476317a744605dc983dc44af3e4229b.jpg" width="180" style="border-radius: 50%; border: 2px solid #ff00ff;">
   <br><br>
-  <h1>Hola, soy Nyvenh ⚡</h1>
+  <h1>Hola, soy Nyvenh </h1>
   <p><b>Desarrollador Full Stack Avanzado | Especialista en UI/UX y Optimización</b></p>
 </div>
 
